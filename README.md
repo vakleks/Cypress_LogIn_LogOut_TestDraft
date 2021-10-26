@@ -1,14 +1,14 @@
 # Cypress_LogIn_LogOut_TestDraft
 Open bash(Linux)/terminal(MacOS)/cmd(Windows) and follow instruction
-Steps:					//Comments
+Steps:					                              //Comments
 
-mkdir cypress_test			//to create folder
+mkdir cypress_test			                      //to create folder
 
-cd /fullpath/cypress_test/		//to go to folder
+cd /fullpath/cypress_test/		                //to go to folder
 
-npm init				//to npm init
+npm init				                              //to npm init
 
-version: (1.0.0) 			//to fill on or left empty these description strings
+version: (1.0.0) 			                        //to fill on or left empty these description strings
 description: 
 entry point: (index.js) 
 test command: 
@@ -17,13 +17,13 @@ keywords:
 author: 
 license: (ISC) 
 
-Is this OK? (yes) yes			//to confirm unputed information
+Is this OK? (yes) yes			                    //to confirm unputed information
 
-npm install				//to npm intall
+npm install				                            //to npm intall
 
-npm install cypress --save-dev		//to developer mode
+npm install cypress --save-dev		            //to developer mode
 
-npx cypress open			//to open cyprss
+npx cypress open			                        //to open cyprss
 
 And now open ctreated folder in your IDE (VS Code for example) to create and run test.js file in /cypress_test/cypress/integration/
 
